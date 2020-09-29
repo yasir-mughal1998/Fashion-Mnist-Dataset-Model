@@ -15,5 +15,7 @@ Each training and test example is assigned to one of the following labels:
 | 8 |	Bag |
 | 9 |	Ankle boot |
 ## Accuracy
--**Training Accuracy**: 92%
--**Testing Accuracy**: 90%
+<ul>
+<li>**Training Accuracy**: 92%</li>
+<li>**Testing Accuracy**: 90%</li>
+</ul>
