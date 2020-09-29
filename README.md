@@ -16,6 +16,6 @@ Each training and test example is assigned to one of the following labels:
 | 9 |	Ankle boot |
 ## Accuracy
 <ul>
-<li>**Training Accuracy**: 92%</li>
-<li>**Testing Accuracy**: 90%</li>
+<li>Training Accuracy: 92%</li>
+<li>Testing Accuracy: 90%</li>
 </ul>
